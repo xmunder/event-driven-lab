@@ -31,7 +31,7 @@ Este laboratorio muestra cómo crear un sistema de microservicios con Spring Boo
    - Se verificó que el consumidor recibiera y procesara el mensaje.
 
 ## Evidencias
-Las imágenes de evidencia están en la carpeta `evidences` y están numeradas del 1 al 5:
+Las imágenes de evidencia están en la carpeta `evidences` y están numeradas del 1 al 7:
 
 ![Evidencia 1](evidences/1.png)
 
